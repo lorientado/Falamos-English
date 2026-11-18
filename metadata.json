@@ -1,0 +1,10 @@
+{
+  "name": "Falamos English · Simulador 3D A1–A2",
+  "description": "Aplicación lúdica en galego para aprender inglés (A1–A2, 7–14 anos) con simulador 3D en Three.js, tarxetas espaciadas, conversa con IA e escape room da casa.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

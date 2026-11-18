@@ -1,0 +1,10 @@
+{
+  "name": "Falamos: Galician Conversation Practice",
+  "description": "An interactive AI-powered application to help A1-B1 level learners practice conversational Galician in various real-life scenarios, with vocabulary review and personalized feedback flashcards.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
